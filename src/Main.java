@@ -8,5 +8,6 @@ public class Main {
             System.out.print(x);
             if((int)i%1000==0) System.out.println();
         }
+
     }
 }
