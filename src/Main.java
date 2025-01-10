@@ -1,10 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        char x=0;
-        for (int i = 0; i < 55555; i++) {
-            x=(char)i;
-            System.out.print(x);
-            if((int)i%1000==0) System.out.println();
-        }
+        System.out.println("Lev is a meanie");
     }
 }
