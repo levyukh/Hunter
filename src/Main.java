@@ -9,5 +9,6 @@ public class Main {
             if((int)i%1000==0) System.out.println();
         }
 
+        System.out.println("Hullo!");
     }
 }
